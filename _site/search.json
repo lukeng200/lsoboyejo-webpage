@@ -2,16 +2,79 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "lsoboyejo-webpage",
+    "title": "lucas shubby",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 27, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 24, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "About Me 👨‍🎓\n\n\nLife is a function that depends on many variables.\nIn 2015, I completed my bachelor’s degree in  Water Resources Management and Agrometeorology with a major in Hydrology from the Federal University of Agriculture, Abeokuta, Nigeria.\nIn 2020, I completed an Erasmus Mundus Joint Master Degree in  Water and Coastal Management, fully funded by the  European Union, and hosted by the  University of Bologna (Italy), the  University of Cadiz (Spain), and the  University of Algarve (Portugal). In Italy, the programme is recognised as the international curriculum of the second cycle degree in LM-75 Environmental Assessment and Management.\nCurrently a PhD Student  Univeristy of Melbourne, Australia\nThanks ! 🙏 , because you are part of the story."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "More Information - About Me",
     "section": "",
-    "text": "About this blog"
+    "text": "Click here to view my CV as an isolated pdf."
+  },
+  {
+    "objectID": "about/index.html#bio",
+    "href": "about/index.html#bio",
+    "title": "More Information - About Me",
+    "section": "Bio",
+    "text": "Bio\nThe following bio and this photo may be used in media releases without further permission.\n\nLukman Adeboye Soboye is currently a graduate researcher at the Department of Ecosytem and Forest services from the University of Melbourne.  My background interest and focus have always been about water and earth sciences. The need to gain more insight about environmental assessment and management prompted me to seek new challenge elsewhere (MSc and PhD sojourn). In the quest of moving around, I have acquired numerous skill sets such as data analysis and visualisation (using R and a bit of Python) and models, GIS, GPR, remote sensing, river geomorphic mapping, and more in tackling and managing environmental complexities.  My undergraduate project was about the assessment of limestone mining impact on groundwater quality, Sagamu, Ogun State, Nigeria. The project was supervised by  Prof. Julius Awomeso.  My Master’s project was on Different processes affecting long-term Ravenna coastal drainage basins (Italy): implications for water management. The project was supervised by Prof. Marco Antonellini and Prof. B.M.S Giambiastini.However, I am currently working on predicting river channel disturbance in response to urbanisation. The project is supervised by Dr Kathryn Russel, Prof. Tim Fletcher, and Dr Jasper Kunapo.\n\n\n\n\n\nCurriculum Vitae\n\n\nGoogle Scholar\n\n\n\n\n\nORCID\n\n\nGitHub"
+  },
+  {
+    "objectID": "about/index.html#address",
+    "href": "about/index.html#address",
+    "title": "More Information - About Me",
+    "section": "Address",
+    "text": "Address\nMail: School of Ecosystem and Forest Sciences](https://ecosystemforest.unimelb.edu.au/), University of Melbourne, 500 Yarra Boulevard, Richmond, Victoria 3121, Australia.\nOffice: Engineering Facilities, Building 903, Burnley campus, University of Melbourne, 500 Yarra Boulevard, Richmond, Victoria 3121, Australia.\n\n\n\n\nputlocker\n\ngoogle map in website"
+  },
+  {
+    "objectID": "about/index.html#in-the-news",
+    "href": "about/index.html#in-the-news",
+    "title": "More Information - About Me",
+    "section": "In the news",
+    "text": "In the news\nHere is a list of recent news articles about me."
+  },
+  {
+    "objectID": "about/index.html#administrative-responsibilities",
+    "href": "about/index.html#administrative-responsibilities",
+    "title": "More Information - About Me",
+    "section": "Administrative responsibilities",
+    "text": "Administrative responsibilities"
+  },
+  {
+    "objectID": "about/index.html#fellowships-and-memberships",
+    "href": "about/index.html#fellowships-and-memberships",
+    "title": "More Information - About Me",
+    "section": "Fellowships and Memberships",
+    "text": "Fellowships and Memberships"
+  },
+  {
+    "objectID": "about/index.html#trivia",
+    "href": "about/index.html#trivia",
+    "title": "More Information - About Me",
+    "section": "Trivia",
+    "text": "Trivia"
+  },
+  {
+    "objectID": "about/index.html#other-interests",
+    "href": "about/index.html#other-interests",
+    "title": "More Information - About Me",
+    "section": "Other interests",
+    "text": "Other interests"
+  },
+  {
+    "objectID": "about/index.html#family-websites",
+    "href": "about/index.html#family-websites",
+    "title": "More Information - About Me",
+    "section": "Family websites",
+    "text": "Family websites"
+  },
+  {
+    "objectID": "blogs/index.html",
+    "href": "blogs/index.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -44,8 +107,29 @@
   {
     "objectID": "publications/index.html",
     "href": "publications/index.html",
-    "title": "lsoboyejo-webpage",
+    "title": "Lukman A. Soboyejo",
     "section": "",
     "text": "Curriculum Vitae         Google Scholar"
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Lukman A. Soboyejo",
+    "section": "",
+    "text": "Talks\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nVenue\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about/index.html#qualifications",
+    "href": "about/index.html#qualifications",
+    "title": "More Information - About Me",
+    "section": "Qualifications",
+    "text": "Qualifications\n\nFirst School Leaving Certificate (FSLC), 2003.\nJunior High School Certificate, 2006.\nWest African Senior School Certificate (WASSCE), 2009.\nB.Sc., Federal University of Agriculture, Abeokuta (FUNAAB), 2015.\nM.Sc., University of Bologna, Italy, 2020.(Joint Degree)\nM.Sc., University of Algarve, Spain, 2020. (Joint Degree)\nPh.D. in View, University of Melbourne, 2022-2025."
+  },
+  {
+    "objectID": "subscribe.html",
+    "href": "subscribe.html",
+    "title": "Lukman A. Soboyejo",
+    "section": "",
+    "text": "Subscribe to new posts\n\nGet new content in a weekly email\n\n\n\n\n\nGet new content via RSS\n\nAll blogs\nOnly publications"
   }
 ]

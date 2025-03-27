@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Lukman A. Soboyejo - lucas shubby</title>
+<title>Lukman A. Soboyejo - Posts</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,21 +23,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -57,11 +60,41 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-talks .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-talks'] = new List('listing-talks', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="styles.css">
-<meta name="twitter:title" content="Lukman A. Soboyejo - lucas shubby">
+<link rel="stylesheet" href="../styles.css">
+<meta name="twitter:title" content="Lukman A. Soboyejo - Posts">
 <meta name="twitter:creator" content="@lucas_shubby">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -73,7 +106,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Lukman A. Soboyejo</span>
     </a>
   </div>
@@ -83,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./blogs/index.html">
+    <a class="nav-link active" href="../blogs/index.html" aria-current="page">
  <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -92,25 +125,25 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-news">    
         <li>
-    <a class="dropdown-item" href="./news/index.qmd">
+    <a class="dropdown-item" href="../news/index.qmd">
  <span class="dropdown-text">All post</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./publications/index.html">
+    <a class="nav-link" href="../publications/index.html">
  <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./software/index.qmd">
+    <a class="nav-link" href="../software/index.qmd">
  <span class="menu-text">Software</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./talks/index.html">
+    <a class="nav-link" href="../talks/index.html">
  <span class="menu-text">Conferences / Talks</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about/index.html">
+    <a class="nav-link" href="../about/index.html">
  <span class="menu-text">About</span></a>
   </li>  
 </ul>
@@ -123,54 +156,66 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-cloud"></div></div>
 <!-- main -->
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="head_2.jpg" class="about-image
-  rounded " style="width: 20em;">
+<main class="content column-page-left" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">lucas shubby</h1>
+<h1 class="title">Posts</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
+  
+
 </header>
-    <div class="about-links">
-  <a href="https://twitter.com/lucas_shubby" class="about-link">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text">twitter</span>
-  </a>
-  <a href="https://github.com/lukeng200" class="about-link">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">github</span>
-  </a>
-  <a href="mailto:lsoboyejo@student.unimelb.edu.au" class="about-link">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">mail</span>
-  </a>
-  <a href="/www.linkedin.com/in/soboyejo-lukman-adeboye" class="about-link">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
+
+<div id="posts">
+
 </div>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-talks">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-talks-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-talks'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+     </select>
   </div>
-  <div class="about-contents"><main class="content column-page" id="quarto-document-content">
-<div class="col-md-8">
-<h2 class="featurette-heading">
-<p>About Me 👨‍🎓</p>
-</h2>
-<p class="lead">
-</p><p>Life is a function that depends on many variables.</p>
-<p>In 2015, I completed my bachelor’s degree in <a href="https://funaab.edu.ng/section/water-resources-management-and-agricultural-meteorology/"> Water Resources Management and Agrometeorology</a> with a major in Hydrology from the Federal University of Agriculture, Abeokuta, Nigeria.</p>
-<p>In 2020, I completed an Erasmus Mundus Joint Master Degree in <a href="https://wacoma.unibo.it/promotion_dissemination.php"> Water and Coastal Management</a>, fully funded by the <a href="https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters-scholarships"> European Union</a>, and hosted by the <a href="https://corsi.unibo.it/2cycle/wacoma"> University of Bologna</a> (Italy), the <a href="https://ccmaryambientales.uca.es/water-and-coastal-management-wacoma/"> University of Cadiz</a> (Spain), and the <a href="https://www.ualg.pt/en/erasmus-mundus"> University of Algarve</a> (Portugal). In Italy, the programme is recognised as the international curriculum of the second cycle degree in LM-75 Environmental Assessment and Management.</p>
-<p>Currently a PhD Student <br> <a href="https://ecosystemforest.unimelb.edu.au/research">Univeristy of Melbourne</a>, Australia</p>
-<p>Thanks ! 🙏 , because you are part of the story.</p>
-
-
-</div></main></div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
 </div>
- <!-- /main -->
+<div class="list grid quarto-listing-cols-3">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -191,6 +236,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;
@@ -330,7 +382,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="./lsoboyejo@student.unimelb.edu.au">
+    <a class="nav-link" href="../lsoboyejo@student.unimelb.edu.au">
       <i class="bi bi-envelope" role="img">
 </i> 
     </a>
@@ -342,5 +394,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
