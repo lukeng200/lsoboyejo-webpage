@@ -1,19 +1,74 @@
 project:
   type: website
+  preview:
+    port: 4200
 
 website:
-  title: "lsoboyejo-webpage"
-  navbar:
+  title: "Lukman A. Soboyejo"
+  page-navigation: true
+  site-url: "https://lucas-shubby.netlify.app/"
+  
+  page-footer:
+    left:  "© 1996-2023, Lukman A. Soboyejo"
+    background: "#536878"
     right:
-      - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/lukeng200
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/Hadeboye
+      - icon: envelope
+        href: lsoboyejo@student.unimelb.edu.au
+  twitter-card:
+    creator: "@lucas_shubby"
+    card-style: summary_large_image
+
+
+
+# site navigation
+  navbar:
+    background: "#536878"
+    right:
+      - href: blogs/index.qmd
+        text: Blog
+      - text: News
+        menu:
+        - text: All post
+          href: news/index.qmd
+      - text: Publications
+        href: publications/index.qmd
+      - text: Software
+        href: software/index.qmd
+      - text: Conferences / Talks
+        href: talks/index.qmd
+      - text: About
+        href: about/index.qmd
+
+
+date-format: "D MMMM YYYY"
+freeze: true
+
 format:
   html:
-    theme: cosmo
+    smooth-scroll: true
+    theme: journal
     css: styles.css
+    link-external-icon: false
+    link-external-newwindow: true
+    link-external-filter: ''
+    citations-hover: true
+    footnotes-hover: true
+    include-in-header: meta.html
+    toc: true
+    highlight-style: monokai
+    code-link: true
+
+
+
+comments:
+  giscus:
+    repo: lukeng200/Lukman_Academic_Hub
 
 editor: visual
+
+
 

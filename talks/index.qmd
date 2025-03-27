@@ -1,0 +1,24 @@
+---
+pagetitle: "Lukman A. soboyejo - Talks"
+listing:
+  contents: .
+  sort: "date desc"
+  feed:
+    title: "Lukman A. soboyejo - Talks"
+    description: "Lukman A. soboyejo - Talks"
+  categories: false
+  sort-ui: false
+  filter-ui: [date, title, venue]
+  date-format: "DD MMM YYYY"
+  type: table
+  page-size: 999
+  fields:
+    - date
+    - title
+    - venue
+  field-display-names:
+      venue: Venue
+comments: false
+---
+
+# Talks

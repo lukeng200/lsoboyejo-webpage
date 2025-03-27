@@ -1,12 +1,47 @@
 ---
-title: "lsoboyejo-webpage"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
+title: "lucas shubby"
+about:
+  template: trestles
+  image: head_2.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/lucas_shubby
+    - icon: github
+      text: github
+      href: https://github.com/lukeng200
+    - icon: envelope
+      text: mail
+      href: mailto:lsoboyejo@student.unimelb.edu.au
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/soboyejo-lukman-adeboye 
+comments: false
+sidebar: false
+toc: false
 page-layout: full
-title-block-banner: true
+format:
+  html:
+    template-partials:
+      - html/home/title-block.html
 ---
+
+<div class="col-md-8">
+
+<h2 class="featurette-heading">
+
+About Me 👨‍🎓
+
+</h2>
+
+<p class="lead">
+
+Life is a function that depends on many variables.
+
+In 2015, I completed my bachelor's degree in <a href = "https://funaab.edu.ng/section/water-resources-management-and-agricultural-meteorology/"> Water Resources Management and Agrometeorology</a> with a major in Hydrology from the Federal University of Agriculture, Abeokuta, Nigeria.</a>
+
+In 2020, I completed an Erasmus Mundus Joint Master Degree in <a href = "https://wacoma.unibo.it/promotion_dissemination.php"> Water and Coastal Management</a>, fully funded by the <a href = "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters-scholarships"> European Union</a>, and hosted by the <a href = "https://corsi.unibo.it/2cycle/wacoma"> University of Bologna</a> (Italy), the <a href = "https://ccmaryambientales.uca.es/water-and-coastal-management-wacoma/"> University of Cadiz</a> (Spain), and the <a href = "https://www.ualg.pt/en/erasmus-mundus"> University of Algarve</a> (Portugal). In Italy, the programme is recognised as the international curriculum of the second cycle degree in LM-75 Environmental Assessment and Management</a>.
+
+Currently a PhD Student <br> [Univeristy of Melbourne](https://ecosystemforest.unimelb.edu.au/research), Australia
+
+Thanks ! 🙏 , because you are part of the story.
