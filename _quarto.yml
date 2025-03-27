@@ -65,9 +65,9 @@ format:
 
 
 
-comments:
-  giscus:
-    repo: lukeng200/lsoboyejo-webpage
+# comments:
+#   giscus:
+#     repo: lukeng200/lsoboyejo-webpage
 
 editor: visual
 

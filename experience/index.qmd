@@ -1,20 +1,35 @@
 ---
-title: "Posts"
-listing:
-  - id: talks
-    contents: "**/*/index.qmd"
-    type: grid
-    fields: [image, date, title, subtitle]
-    sort: "date desc"
-    categories: cloud
-    sort-ui: true
-    filter-ui: true
-    page-size: 36     
-page-layout: full
-title-block-banner: false
-comments: false
-toc: true
+layout: default
+title:  'Experience'
 ---
 
-::: {#posts}
-:::
+<p class="lead">
+
+<a href="cv.pdf">Click here</a> to view my detailed CV as an isolated pdf.
+
+</p>
+
+## Industry experience
+Intern · Clust-ER Greentech Energy Sustainability, Italy  
+📅 Feb 2020 – Jul 2020  
+🌐 [greentech.clust-er.it/en](https://greentech.clust-er.it/en/)  
+
+
+Intern · Ogun State Water Works Corporation, Sagamu Business Area  
+📅 May 2014 – Nov 2014  
+🌐 [www.ogunwater.org.ng](https://www.ogunwater.org.ng)  
+
+## Teaching experience
+Graduate Teaching Assistant · Federal Polytechnic Idah, Kogi State (NYSC)  
+📅 Nov 2016 – Jan 2018
+🌐 [www.nysc.gov.ng](https://www.nysc.gov.ng)  
+
+Part-time Math/Geography Tutor · Extensive Educational Consultant, Nigeria  
+📅 Mar 2016 – Aug 2016
+
+## Research experience
+PhD Research Components · The University of Melbourne, Australia  
+📅 Mar 2022 – Aug 2026 
+
+MSc Research Components · University of Bologna, Italy  
+📅 Sept 2019 – Jul 2020 

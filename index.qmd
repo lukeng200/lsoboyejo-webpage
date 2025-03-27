@@ -23,9 +23,6 @@ about:
     - icon: id-badge
       text: ORCID
       href: https://orcid.org/0000-0002-2953-1150
-    - icon: file
-      text: Curriculum Vitae
-      href: cv.pdf  # assuming you put your CV as cv.pdf in the root folder
 comments: false
 sidebar: false
 toc: false
@@ -40,15 +37,18 @@ page-layout: full
 
 <h2 class="featurette-heading">
 
-About Me: </h2>
+About Me:
+</h2>
 
 <p class="lead">
+### 🌍 Who I Am
+I am an environmental manager and scientist with a strong foundation in water resources management, environmental assessment, and urban stream management, currently working on [predicting urban channel form and related geomorphic disturbance to urbanisation](https://findanexpert.unimelb.edu.au/scholarlywork/1947357-predicting-urban-channel-morphology-amidst-multiple-complexities?cache=1732788019141).
 
-🌍 <b>Who I Am</b> <br>I am an environmental manager and scientist with a strong foundation in water resources management, environmental assessment, and urban stream management, currently working on [predicting urban channel form and related geomorphic disturbance to urbanisation](https://findanexpert.unimelb.edu.au/scholarlywork/1947357-predicting-urban-channel-morphology-amidst-multiple-complexities?cache=1732788019141).
+### 🎯 What I want
+I am always seeking an advanced role where I can apply my technical (research) expertise and project delivery experience improve water and coastal resources, as well as the health of catchments and urban waterways.
 
-🎯 <b>What I want</b><br>I am always seeking an advanced role where I can apply my technical (research) expertise and project delivery experience improve water and coastal resources, as well as the health of catchments and urban waterways.
-
-💡 <b>What I believe</b><br>I am passionate about integrating science with practice to inform sustainable and equitable environmental management. I believe in collaborative, evidence-based approaches that empower governments or councils and communities to take active ownership of their local ecosystems.
+### 💡 What I believe
+I am passionate about integrating science with practice to inform sustainable and equitable environmental management. I believe in collaborative, evidence-based approaches that empower governments or councils and communities to take active ownership of their local ecosystems.
 
 Currently a PhD researcher \| Geomorphology and earth surface processes <br> [Univeristy of Melbourne](https://safes.unimelb.edu.au/research/werg), Australia
 
