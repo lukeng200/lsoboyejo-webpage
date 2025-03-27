@@ -2,41 +2,30 @@
 title: "Lukman A. Soboyejo"
 subtitle: Environmental Manager & Scientist 
 about:
-  template: trestles
+  template: trestles # trestles | jolla | marquee
   image: head_2.jpg
   links:
     - icon: twitter
-      text: Twitter
       href: https://twitter.com/lucas_shubby
     - icon: github
-      text: Github
       href: https://github.com/lukeng200
     - icon: envelope
-      text: E-mail
       href: mailto:lsoboyejo@student.unimelb.edu.au
     - icon: linkedin
-      text: LinkedIn
       href: https://www.linkedin.com/in/l-soboyejo
     - icon: google
-      text: Google Scholar
       href: https://scholar.google.com.au/citations?user=l63u3A4AAAAJ&hl=en
-    - icon: id-badge
-      text: ORCID
-      href: https://orcid.org/0000-0002-2953-1150
 comments: false
 sidebar: false
 toc: false
-page-layout: full
+page-layout: full # article
 # format:
 #   html:
 #     template-partials:
 #       - html/home/title-block.html
 ---
-
 <div class="col-md-8">
-
 <h2 class="featurette-heading">
-
 About Me:
 </h2>
 

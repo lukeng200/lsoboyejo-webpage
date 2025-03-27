@@ -10,7 +10,7 @@ website:
   
   page-footer:
     left:  "© 1992-2025, Lukman A. Soboyejo"
-    background: "#536878"
+    background: "#9172be"
     right:
       - icon: github
         href: https://github.com/lukeng200
@@ -27,16 +27,16 @@ website:
 
 # site navigation
   navbar:
-    background: "#536878"
+    background: "#9172be"
     right:
       - href: experience/index.qmd
         text: Experience
+      - text: Publications
+        href: publications/index.qmd
       - text: News
         menu:
         - text: All post
           href: news/index.qmd
-      - text: Publications
-        href: publications/index.qmd
       - text: Software
         href: software/index.qmd
       - text: Conferences / Talks
