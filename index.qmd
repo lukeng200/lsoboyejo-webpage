@@ -1,47 +1,52 @@
 ---
-title: "lucas shubby"
+title: "Lukman A. Soboyejo"
 about:
   template: trestles
   image: head_2.jpg
   links:
     - icon: twitter
-      text: twitter
+      text: Twitter
       href: https://twitter.com/lucas_shubby
     - icon: github
-      text: github
+      text: Github
       href: https://github.com/lukeng200
     - icon: envelope
-      text: mail
+      text: E-mail
       href: mailto:lsoboyejo@student.unimelb.edu.au
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/soboyejo-lukman-adeboye 
+      href: www.linkedin.com/in/soboyejo-lukman-adeboye
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com.au/citations?user=l63u3A4AAAAJ&hl=en
+    - icon: id-badge
+      text: ORCID
+      href: https://orcid.org/0000-0002-2953-1150
+    - icon: file
+      text: Curriculum Vitae
+      href: cv.pdf  # assuming you put your CV as cv.pdf in the root folder
 comments: false
 sidebar: false
 toc: false
 page-layout: full
-format:
-  html:
-    template-partials:
-      - html/home/title-block.html
+# format:
+#   html:
+#     template-partials:
+#       - html/home/title-block.html
 ---
 
 <div class="col-md-8">
-
 <h2 class="featurette-heading">
-
-About Me 👨‍🎓
-
+About Me
 </h2>
-
 <p class="lead">
 
-Life is a function that depends on many variables.
+🌍 <b>Who I Am</b> <br>I am an environmental scientist with a strong foundation in water resources, environmental assessment, and urban stream management, currently working on [predicting urban channel form and related geomorphic disturbance to urbanisation](https://findanexpert.unimelb.edu.au/scholarlywork/1947357-predicting-urban-channel-morphology-amidst-multiple-complexities?cache=1732788019141). 
 
-In 2015, I completed my bachelor's degree in <a href = "https://funaab.edu.ng/section/water-resources-management-and-agricultural-meteorology/"> Water Resources Management and Agrometeorology</a> with a major in Hydrology from the Federal University of Agriculture, Abeokuta, Nigeria.</a>
+🎯 <b>What I want ?</b><br>I am always seeking an advanced role where I can apply my technical (research) expertise and project delivery experience improve water and coastal resources, as well as the health of catchments and urban waterways. 
 
-In 2020, I completed an Erasmus Mundus Joint Master Degree in <a href = "https://wacoma.unibo.it/promotion_dissemination.php"> Water and Coastal Management</a>, fully funded by the <a href = "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters-scholarships"> European Union</a>, and hosted by the <a href = "https://corsi.unibo.it/2cycle/wacoma"> University of Bologna</a> (Italy), the <a href = "https://ccmaryambientales.uca.es/water-and-coastal-management-wacoma/"> University of Cadiz</a> (Spain), and the <a href = "https://www.ualg.pt/en/erasmus-mundus"> University of Algarve</a> (Portugal). In Italy, the programme is recognised as the international curriculum of the second cycle degree in LM-75 Environmental Assessment and Management</a>.
+💡 <b>What I believe?</b><br>I am passionate about integrating science with practice to inform sustainable and equitable environmental management. I believe in collaborative, evidence-based approaches that empower governments or councils and communities to take active ownership of their local ecosystems.
 
-Currently a PhD Student <br> [Univeristy of Melbourne](https://ecosystemforest.unimelb.edu.au/research), Australia
+Currently a PhD researcher | Geomorphology and earth surface processes <br> [Univeristy of Melbourne](https://safes.unimelb.edu.au/research/werg), Australia 
 
 Thanks ! 🙏 , because you are part of the story.
