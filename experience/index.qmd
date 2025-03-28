@@ -1,7 +1,19 @@
 ---
-layout: default
-title:  'Experience'
+title: "Experience"
+sidebar: false
+page-layout: full
+title-block-banner: false
+language:
+  listing-page-field-categories: "Type"
+format:
+  html:
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.0/css/all.min.css">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css">
 ---
+
 
 <p class="lead">
 

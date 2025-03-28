@@ -30,18 +30,18 @@ website:
     right:
       - href: experience/index.qmd
         text: Experience
+      - href: education/index.qmd
+        text: Education
       - text: Publications
         href: publications/index.qmd
       - text: News
+        href: news/index.qmd
+      - text: Engagements
+        href: Engagements/index.qmd
+      - text: Blog
         menu:
         - text: All post
-          href: news/index.qmd
-      - text: Software
-        href: software/index.qmd
-      - text: Conferences / Talks
-        href: talks/index.qmd
-      - text: About
-        href: about/index.qmd
+          href: blog/index.qmd
 
 
 date-format: "D MMMM YYYY"

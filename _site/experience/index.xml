@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Pulications by Lukman A Soboyejo</title>
+<link>https://lsoboyejo.netlify.app/experience/index.html</link>
+<atom:link href="https://lsoboyejo.netlify.app/experience/index.xml" rel="self" type="application/rss+xml"/>
+<description>Working papers and published articles by Lukman A Soboyejo</description>
+<generator>quarto-1.2.247</generator>
+<lastBuildDate>Fri, 28 Mar 2025 11:50:18 GMT</lastBuildDate>
+</channel>
+</rss>
