@@ -17,8 +17,15 @@ page-layout: full
 title-block-banner: false
 language:
   listing-page-field-categories: "Type"
+format:
+  html:
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.0/css/all.min.css">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css">
 ---
 
 ## Publications
 
-[Curriculum Vitae   {{< fa regular file-pdf >}}](https://github.com/lukeng200/lukeng200.github.io/raw/master/CV.pdf){.badge .badge-large}      [Google Scholar   {{< ai google-scholar >}}](https://scholar.google.com.au/citations?hl=en&user=l63u3A4AAAAJ){.badge .badge-large}
+[Google Scholar <i class="ai ai-google-scholar"></i>](https://scholar.google.com.au/citations?hl=en&user=l63u3A4AAAAJ){.badge .badge-large}

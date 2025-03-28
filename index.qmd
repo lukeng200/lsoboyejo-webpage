@@ -13,16 +13,15 @@ about:
       href: mailto:lsoboyejo@student.unimelb.edu.au
     - icon: linkedin
       href: https://www.linkedin.com/in/l-soboyejo
-    - icon: google
-      href: https://scholar.google.com.au/citations?user=l63u3A4AAAAJ&hl=en
-comments: false
-sidebar: false
-toc: false
+# comments: false
+# sidebar: false
+# toc: false
 page-layout: full # article
 # format:
 #   html:
 #     template-partials:
 #       - html/home/title-block.html
+
 ---
 <div class="col-md-8">
 <h2 class="featurette-heading">
@@ -39,6 +38,6 @@ I am always seeking an advanced role where I can apply my technical (research) e
 ### 💡 What I believe
 I am passionate about integrating science with practice to inform sustainable and equitable environmental management. I believe in collaborative, evidence-based approaches that empower governments or councils and communities to take active ownership of their local ecosystems.
 
-Currently a PhD researcher \| Geomorphology and earth surface processes <br> [Univeristy of Melbourne](https://safes.unimelb.edu.au/research/werg), Australia
+Currently a PhD researcher \| Geomorphology and earth surface processes <br> THE [Univeristy of Melbourne](https://safes.unimelb.edu.au/research/werg), Australia
 
 Thanks ! 🙏 , because you are part of the story.

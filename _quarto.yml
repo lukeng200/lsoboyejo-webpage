@@ -19,10 +19,9 @@ website:
       - icon: envelope
         href: lsoboyejo@student.unimelb.edu.au
         
-  twitter-card:
-    creator: "@lucas_shubby"
-    card-style: summary_large_image
-
+  # twitter-card:
+  #   creator: "@lucas_shubby"
+  #   card-style: summary_large_image
 
 
 # site navigation

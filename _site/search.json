@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Lukman A. Soboyejo",
     "section": "",
-    "text": "About Me:\n\n\n\n🌍 Who I Am\nI am an environmental manager and scientist with a strong foundation in water resources management, environmental assessment, and urban stream management, currently working on predicting urban channel form and related geomorphic disturbance to urbanisation.\n\n\n🎯 What I want\nI am always seeking an advanced role where I can apply my technical (research) expertise and project delivery experience improve water and coastal resources, as well as the health of catchments and urban waterways.\n\n\n💡 What I believe\nI am passionate about integrating science with practice to inform sustainable and equitable environmental management. I believe in collaborative, evidence-based approaches that empower governments or councils and communities to take active ownership of their local ecosystems.\nCurrently a PhD researcher | Geomorphology and earth surface processes  Univeristy of Melbourne, Australia\nThanks ! 🙏 , because you are part of the story."
+    "text": "About Me:\n\n\n\n🌍 Who I Am\nI am an environmental manager and scientist with a strong foundation in water resources management, environmental assessment, and urban stream management, currently working on predicting urban channel form and related geomorphic disturbance to urbanisation.\n\n\n🎯 What I want\nI am always seeking an advanced role where I can apply my technical (research) expertise and project delivery experience improve water and coastal resources, as well as the health of catchments and urban waterways.\n\n\n💡 What I believe\nI am passionate about integrating science with practice to inform sustainable and equitable environmental management. I believe in collaborative, evidence-based approaches that empower governments or councils and communities to take active ownership of their local ecosystems.\nCurrently a PhD researcher | Geomorphology and earth surface processes  THE Univeristy of Melbourne, Australia\nThanks ! 🙏 , because you are part of the story."
   },
   {
     "objectID": "about/index.html",
@@ -109,7 +109,7 @@
     "href": "publications/index.html",
     "title": "Lukman A. Soboyejo",
     "section": "",
-    "text": "Curriculum Vitae         Google Scholar"
+    "text": "Google Scholar"
   },
   {
     "objectID": "talks/index.html",
@@ -173,5 +173,19 @@
     "title": "Experience",
     "section": "Intern · Clust-ER Greentech Energy Sustainability, Italy",
     "text": "Intern · Clust-ER Greentech Energy Sustainability, Italy\n📅 Feb 2020 – Jul 2020\n🌐 greentech.clust-er.it/en\n\nIntern · Ogun State Water Works Corporation, Sagamu Business Area\n📅 May 2014 – Nov 2014\n🌐 www.ogunwater.org.ng"
+  },
+  {
+    "objectID": "publications/Modeling-deficit-irrigation-water-demand-of-maize-and-potato-in-Eastern-Germany-using-ERA5-Land-reanalysis-climate-time-series/index.html",
+    "href": "publications/Modeling-deficit-irrigation-water-demand-of-maize-and-potato-in-Eastern-Germany-using-ERA5-Land-reanalysis-climate-time-series/index.html",
+    "title": "Modeling deficit irrigation water demand of maize and potato in Eastern Germany using ERA5-Land reanalysis climate time series",
+    "section": "",
+    "text": "ERA5-Land reanalysis (ELR) climate time series has proven useful in (hydro)meteorological studies, however, its adoption for local studies is limited due to accuracies constraints. Meanwhile, local agricultural use of ELR could help data-scarce countries by addressing gaps in (hydro)meteorological variables. This study aimed to evaluate the first applicability of the ELR climate time series for modeling maize and potato irrigation water demand (IWD) at field scale and examined the performance of ELR precipitation with bias correction (DBC) and without bias correction (WBC). Yield, actual evapotranspiration (ETa), irrigation, water balance, and crop water productivity (CWP) were evaluated using the deficit irrigation toolbox. The study found that maize (13.98–14.49 ton/ha) and potato (6.84–8.20 tons/ha) had similar mean seasonal yield under different irrigation management strategies (IMS). The Global Evolutionary Technique for OPTimal Irrigation Scheduling (GET-OPTIS_WS) IMS had the highest mean seasonal yields under DBC and WBC, while rainfall and constant IMS had the most crop failures. DBC had a higher mean seasonal ETa than WBC, except for the potato FIT and rainfall IMS. Global Evolutionary Technique for OPTimal Irrigation Scheduling: one common schedule per crop season (GET-OPTIS_OS) and GET-OPTIS_WS IMS outperformed conventional IMS in IWD by 44%. Overall, GET-OPTIS_OS and GET-OPTIS_WS performed best for maize and potato CWP in terms of IWD, scheduling, and timing. Therefore, adoption of ELR climate time series and advanced irrigation optimization strategies such as GET-OPTIS_OS and GET-OPTIS_WS can be beneficial for effective and efficient management of limited water resources, where agricultural water allocation/resource is limited."
+  },
+  {
+    "objectID": "experience/index.html#volunteering-experience",
+    "href": "experience/index.html#volunteering-experience",
+    "title": "Experience",
+    "section": "Volunteering experience",
+    "text": "Volunteering experience"
   }
 ]

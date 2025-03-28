@@ -11,7 +11,7 @@
    Typography
 ---------------------------------------- */
 main, p {
-  font-size: 0.9rem !important;
+  font-size: 0.8rem !important;
 }
 
 .callout.callout-style-default .callout-body {
@@ -23,7 +23,6 @@ b, strong {
   color: var(--bs-blue);
   font-weight: bolder;
 }
-
 
 /* ---------------------------------------
    Links
@@ -44,7 +43,6 @@ a {
 div.quarto-about-trestles .about-entity .about-link:hover {
   color: var(--bs-blue);
 }
-
 
 /* ---------------------------------------
    Buttons
